@@ -1,0 +1,19 @@
+{
+  "name": "guess-mine",
+  "version": "1.0.0",
+  "description": "Realtime Drawing Game built with SocketIO, Gulp and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeungsooChoi/guess-mine.git"
+  },
+  "author": "SeungsooChoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeungsooChoi/guess-mine/issues"
+  },
+  "homepage": "https://github.com/SeungsooChoi/guess-mine#readme"
+}
